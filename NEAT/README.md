@@ -12,6 +12,7 @@ OS X & Linux:
 
 ```sh
 git clone https://github.com/nlopez99/AI.git
+cd NEAT/
 pip install -r requirements.txt
 ```
 ## To Run The Software
